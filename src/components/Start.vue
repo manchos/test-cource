@@ -21,7 +21,6 @@
               </a>
             </router-link>
           </ul>
-
         </div>
       </div>
     </nav>  
